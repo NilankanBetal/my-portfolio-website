@@ -28,18 +28,14 @@ Currently it has 4 parts. These are following:
 -  **README.md**
     <br>
     <br />Description:
-    <br>
 -  **imgaes folder**
     <br>
     <br />Description:
-    <br>
 -  **index.html**
     <br>
-    <br />Description:  
-    <br>
+    <br />Description:
 -  **index.css**
     <br>
-    <br />Description:    
-    <br>
+    <br />Description:
 # The Link Of The Website:
 **The link is here:** https://nilankanbetal.github.io/my-portfolio-website/
