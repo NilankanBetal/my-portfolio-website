@@ -1,8 +1,8 @@
 # My portfolio website
-**The link is below**
+**The link is below.**
 
 # Welcome Note:
-Hello, I'm Nilanakan and welcome to the repository of my portfolio website, hosted on # GitHub. 
+Hello, I'm Nilanakan and welcome to the repository of my portfolio website, hosted on #GitHub. 
 
 # Current Status:
 Currently this website is deployed but in development stage.
