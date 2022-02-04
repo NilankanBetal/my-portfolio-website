@@ -1,4 +1,26 @@
 # My portfolio website
 
-Hello, I'm Nilanakan. This is my portfolio website. Currently it's not the website that I want to make. I'm developing it to a website, what I want to make it. 
+WELCOME NOTE:
+Hello, I'm Nilanakan and welcome to the repository of my portfolio website, hosted on GitHub. 
+
+CURRENT STATUS:
+Currently this website is deployed but in development stage.
+**Currently it's not the website that I want to make. I'm developing it to a website, what I want to make it.**
+
+ABOUT THE REPOSITORY:
+It's a public repository and anyone can see and use the code.
+
+CONTENTS CAN BE FOUND IN THE WEBSITE:
+The purpose of makifg this website is to introduce myself and showing some information about me.
+I will include the following topics in this website:
+1. My name
+2. My state and country
+3. My educational qualification and grades
+4. My work experiences
+5. My projects
+6. My social media accouts and handles, that you can contact me
+7. My hobbies and passion
+8. My startup (If I do)
+
+THE LINK OF THE WEBSITE:
 The link is here: https://nilankanbetal.github.io/my-portfolio-website/
