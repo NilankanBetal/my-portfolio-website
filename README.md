@@ -1,5 +1,5 @@
 # My portfolio website
-**The link is at the bottom.**
+**The link [here](https://nilankanbetal.github.io/my-portfolio-website/) is at the bottom.**
 
 # Welcome Note:
 Hello, I'm Nilanakan and welcome to the repository of my portfolio website, hosted on **GitHub**. 
@@ -14,24 +14,24 @@ It's a public repository and anyone can see and use the code.
 # Contents Can Be Found In The Website:
 The purpose of making this website is to introduce myself and showing some information about me.
 I will include the following topics in this website:
-1. **My name**
-2. **My state and country**
-3. **My educational qualification and grades**
-4. **My work experiences**
-5. **My projects**
-6. **My social media accouts and handles, that you can contact me**
-7. **My hobbies and passion**
-8. **My startup (If I do)**
+-  **My name**
+-  **My state and country**
+-  **My educational qualification and grades**
+-  **My work experiences**
+-  **My projects**
+-  **My social media accouts and handles, that you can contact me**
+-  **My hobbies and passion**
+-  **My startup (If I do)**
 
 # The Description Of Each Part Of The Repository:
 Currently it has 4 parts. These are following:
-1. **README.md**
+-  **README.md**
     Description:
-2. **imgaes folder**
+-  **imgaes folder**
     Description:
-3. **index.html**
+-  **index.html**
     Description:
-4. **index.css**
+-  **index.css**
     Description:
 # The Link Of The Website:
 **The link is here:** https://nilankanbetal.github.io/my-portfolio-website/
