@@ -1,5 +1,5 @@
 # My portfolio website
-**The link [here](https://nilankanbetal.github.io/my-portfolio-website/) is at the bottom.**
+**The link [here](https://nilankanbetal.github.io/my-portfolio-website/) and at the bottom.**
 
 # Welcome Note:
 Hello, I'm Nilanakan and welcome to the repository of my portfolio website, hosted on **GitHub**. 
