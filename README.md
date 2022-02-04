@@ -5,7 +5,7 @@
 Hello, I'm Nilanakan and welcome to the repository of my portfolio website, hosted on **GitHub**. 
 
 # Current Status:
-Currently this website is deployed but in development stage.
+Currently this website has been deployed but in development stage.
 **Currently it's not the website that I want to make. I'm developing it to a website, what I want to make it.**
 
 # About The Repository:
