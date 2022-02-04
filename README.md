@@ -23,12 +23,15 @@ I will include the following topics in this website:
 7. **My hobbies and passion**
 8. **My startup (If I do)**
 
-# The Description Of Each Part Of The Repository
+# The Description Of Each Part Of The Repository:
 Currently it has 4 parts. These are following:
 1. **README.md**
+    Description:
 2. **imgaes folder**
+    Description:
 3. **index.html**
+    Description:
 4. **index.css**
-
+    Description:
 # The Link Of The Website:
 **The link is here:** https://nilankanbetal.github.io/my-portfolio-website/
