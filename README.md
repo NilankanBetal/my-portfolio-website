@@ -42,5 +42,8 @@ Currently it has 4 parts. These are following:
     <br />***Description***: This is the **Cascading Style Sheet (CSS)** file for the page, index.html. All the styles will be used in index.html, will be here. Maybe for the initial days, I do some code for styling the index.html. But afterthat, I will use index.css for styling.
     <br>
 
+# Name Of Developer:
+The developer of the website is, me, Nilankan Betal.
+
 # The Link Of The Website:
 **The link is here:** https://nilankanbetal.github.io/my-portfolio-website/
