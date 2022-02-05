@@ -2,7 +2,7 @@
 **The link is at the bottom, either you can go there or click [here](https://nilankanbetal.github.io/my-portfolio-website/).**
 
 # Welcome Note:
-Hello, I'm Nilanakan and welcome to the repository of my portfolio website, hosted on **GitHub**. 
+Hello, I'm Nilanakan and welcome to the repository of **my portfolio website**, hosted on **GitHub**. 
 
 # Current Status:
 Currently this website has been deployed but in development stage.
