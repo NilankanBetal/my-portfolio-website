@@ -26,13 +26,13 @@ I will include the following topics in this website:
 # The Description Of Each Part Of The Repository:
 Currently it has 4 parts. These are following:
 -  **[README.md](README.md)**
-    <br />***Description***: This is the README file of the whole repository. One can find deep descriptions of the whole repository and the project also, like work of a particular file or folder and what can be found inside the website et cetera.
+    <br />***Description***: This is the **README file** of the whole repository. One can find deep descriptions of the whole repository and the project also, like work of a particular file or folder and what can be found inside the website et cetera.
     <br>
 -  **[imgaes folder](images)**
     <br />***Description***: This is the only one folder for **all the images**, will be used in the website. Excluding the pictures, linked with other websites, any picture can be found here and all the file using pictures must have to mention this folder in the code, for using the resourses of the folder.
     <br>
 -  **[index.html](index.html)**
-    <br />***Description***: This is the **main html** file for the website. This is the file to 
+    <br />***Description***: This is the **main html** file for the website. This file is for containing all the html codes for the structure of the website.
     <br>
 -  **[index.css](index.css)**
     <br />***Description***: This is the **Cascading Style Sheet (CSS)** file for the page, index.html. All the styles will be used in index.html, will be here. Maybe for the initial days, I do some code for styling the index.html. But afterthat, I will use index.css for styling.
