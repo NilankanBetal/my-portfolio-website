@@ -43,7 +43,7 @@ Currently it has 4 parts. These are following:
     <br>
 
 # Name Of The Developer:
-The developer of the website is, me, Nilankan Betal.
+The developer of the website is, me, [Nilankan Betal](https://github.com/NilankanBetal).
 
 # The Link Of The Website:
 **The link is here:** https://nilankanbetal.github.io/my-portfolio-website/
