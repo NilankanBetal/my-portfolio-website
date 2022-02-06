@@ -1,0 +1,23 @@
+body
+{
+    background-color: "background-color: #ffd9b3";
+}
+
+h2
+{
+   align-content: center;
+}
+
+p
+{
+    align-content: center;
+    font-style: "font-family: Georgia, 'Times New Roman', Times, serif";
+}
+
+img
+{
+    align-self: center;
+    height: 10%;
+    width: 10%;
+    alt: "Picture of Nilankan";
+}
