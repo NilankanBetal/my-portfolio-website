@@ -38,7 +38,7 @@ Currently it has 4 parts. These are following:
     <br />***Description***: This is the **main html** file for the website. This file is for containing all the html codes for the structure of the website.
     <br>
     
--  **[the-layout.css](the-layout.css)**
+-  **[index-layout.css](index-layout.css)**
     <br />***Description***: This is the **Cascading Style Sheet (CSS)** file for the page, index.html. All the styles will be used in index.html, will be here. Maybe for the initial days, I do some code for styling the index.html. But afterthat, I will use index.css for styling.
     <br>
     
