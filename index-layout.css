@@ -5,12 +5,12 @@ body
 
 h2
 {
-   align-content: center;
+   text-align: center;
 }
 
 p
 {
-    align-content: center;
+    text-align: center;
     font-style: "font-family: Georgia, 'Times New Roman', Times, serif";
 }
 
