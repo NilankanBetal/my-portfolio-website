@@ -12,11 +12,12 @@ p
 {
     text-align: center;
     font-style: "font-family: Georgia, 'Times New Roman', Times, serif";
+    border: 20px;
 }
 
 img
 {
-    align-self: center;
+    align-content: center;
     height: 10%;
     width: 10%;
     alt: "Picture of Nilankan";
