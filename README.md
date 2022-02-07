@@ -16,6 +16,7 @@ The purpose of making this website is to introduce myself and showing some infor
 I will include the following topics in this website:
 -  **My name**
 -  **My state and country**
+-  **Educational institutions I had studied or studing**
 -  **My educational qualification and grades**
 -  **My work experiences**
 -  **My projects**
