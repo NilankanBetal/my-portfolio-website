@@ -1,0 +1,1 @@
+window.alert("Hey, you're now in the website!");
