@@ -13,3 +13,15 @@ h1
     color: chocolate;
     text-shadow: 0 0 2px #c92153, 0 0 6px #0000FF;
 }
+
+.button1
+{
+    cursor: pointer;
+    border: 1px solid #3498db;
+    background-color: transparent;
+    height: 95px;
+    width: 200px;
+    color: #3498db;
+    font-size: 1.5em;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
+}
