@@ -1,11 +1,12 @@
 body
 {
-    background-color: #ffd9b3;
+    background-color: #e9c880;
 }
 
-h2
+h1
 {
    text-align: center;
+   color: rgb(226, 15, 79);
 }
 
 p
@@ -22,10 +23,26 @@ img
     align-content: center;
     height: 10%;
     width: 10%;
-    alt: "Picture of Nilankan";
+    
 }
 
-h3
+h2
 {
     text-align: center;
+    color: blue;
 }
+
+.center {
+    display: block;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    height: 10%;
+    width: 10%;
+  }
+
+.firstDiv
+{
+    
+}  
