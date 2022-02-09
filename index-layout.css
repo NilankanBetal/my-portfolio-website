@@ -54,3 +54,22 @@ h2
                   1px -1px 0 #000,
                  -1px -1px 0 #000;
 } 
+
+.container
+{
+    background: #000;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.textEffect
+{
+    font-size: 40px;
+    background:linear-gradient(to right, #334efc, #fcc133);
+    display: inline-block;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
