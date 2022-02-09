@@ -4,6 +4,8 @@ body
 {
     /*background-color: rgba(212, 170, 32, 0.575);*/
     background-image: url(images/artur-voznenko-wm4ME1nDVUA-unsplash.jpg);
+    max-width: 100%;
+    height: auto;
 }
 
 
@@ -72,4 +74,16 @@ h2
                   1px 1px 0 #000,
                   1px -1px 0 #000,
                  -1px -1px 0 #000;
+}
+
+.button1
+{
+    cursor: pointer;
+    border: 1px solid #3498db;
+    background-color: transparent;
+    height: 95px;
+    width: 200px;
+    color: #3498db;
+    font-size: 1.5em;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
 }
