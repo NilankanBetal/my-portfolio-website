@@ -58,7 +58,7 @@ h2
 .container
 {
     background: #000;
-    height: 100vh;
+    height: 10vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -67,7 +67,7 @@ h2
 .textEffect
 {
     font-size: 40px;
-    background:linear-gradient(to right, #334efc, #fcc133);
+    background:linear-gradient(to right, #334efc, #faa12c, #fcc133);
     display: inline-block;
     -webkit-background-clip: text;
     background-clip: text;
