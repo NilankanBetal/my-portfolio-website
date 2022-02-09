@@ -1,0 +1,15 @@
+
+body
+{
+    /*background-color: rgba(212, 170, 32, 0.575);*/
+    background-image: url(images/artur-voznenko-wm4ME1nDVUA-unsplash.jpg);
+    max-width: 100%;
+    height: auto;
+}
+
+h1
+{
+    text-align: center;
+    color: chocolate;
+    text-shadow: 0 0 2px #c92153, 0 0 6px #0000FF;
+}
