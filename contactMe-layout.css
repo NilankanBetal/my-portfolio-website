@@ -2,7 +2,8 @@
 
 body
 {
-    background-color: rgba(212, 170, 32, 0.575);
+    /*background-color: rgba(212, 170, 32, 0.575);*/
+    background-image: url(images/artur-voznenko-wm4ME1nDVUA-unsplash.jpg);
 }
 
 
@@ -17,12 +18,13 @@ p
 {
     text-align: center;
     font-size: larger;
+    color: rgb(23, 248, 98);
 }
 
 h2
 {
     text-align: center;
-    color: rgba(72, 55, 223, 0.596);
+    color: rgba(224, 43, 43, 0.829);
 }
 
 .button
