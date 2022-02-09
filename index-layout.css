@@ -1,6 +1,8 @@
 body
 {
-    background-color: #e9c880;
+    /*background-color: #e9c880;*/
+    background-image: url(images/emiliano-bar-kheTI8pIywU-unsplash.jpg);
+    background-repeat: no-repeat;
 }
 
 h1
@@ -14,6 +16,7 @@ p
     text-align: center;
     font-style: "font-family: Georgia, 'Times New Roman', Times, serif";
     border: 20px;
+    font-size: 45px;
     font-weight: 600;
     margin: 40px 20px 20px 20px;
 }
@@ -23,7 +26,7 @@ img
     align-content: center;
     height: 10%;
     width: 10%;
-    
+    border-radius: 50%;
 }
 
 h2
@@ -42,7 +45,12 @@ h2
     width: 10%;
   }
 
-.firstDiv
+.font-shadow
 {
-    
-}  
+    color: rgb(152, 197, 126);
+    font-size: 45px;
+    text-shadow: -1px 1px 0 #000,
+                  1px 1px 0 #000,
+                  1px -1px 0 #000,
+                 -1px -1px 0 #000;
+} 
