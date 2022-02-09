@@ -11,7 +11,7 @@ h1
 {
     text-align: center;
     color: chocolate;
-    text-shadow: 10px;
+    text-shadow: 0 0 2px #c92153, 0 0 6px #0000FF;
 }
 
 p
@@ -24,7 +24,8 @@ p
 h2
 {
     text-align: center;
-    color: rgba(252, 2, 2, 0.993);
+    text-shadow: 0 0 2px #c92153, 0 0 3px #0000FF;
+    color: rgba(57, 219, 25, 0.685);
 }
 
 .button
@@ -63,4 +64,14 @@ h2
 {
     background-color: #c92153;
     color: white;
+}
+
+.shadow
+{
+    color: khaki;
+    font-size: 20px;
+    text-shadow: -1px 1px 0 #000,
+                  1px 1px 0 #000,
+                  1px -1px 0 #000,
+                 -1px -1px 0 #000;
 }
