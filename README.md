@@ -46,7 +46,23 @@ Currently it has 4 parts. These are following:
 -  **[index-jsfile.js](index-jsfile.js)**
     <br />***Description***: This is the javascript file of the website.
     <br>
-
+    
+-  **[aboutMe.html](aboutMe.html)**
+    <br />***Description***: This is the html page of **About Nilankan** page.
+    <br>
+    
+-  **[aboutMe-layout.css](aboutMe-layout.css)**
+    <br />***Description***: This is the CSS page of the **About Nilankan** page.
+    <br>
+    
+-  **[contactMe.html](contactMe.html)**
+    <br />***Description***: This is the html file of the **Contact Nilankan** page.
+    <br>
+    
+-  **[contactMe-layout.css](contactMe-layout.css)**
+    <br />***Description***: This is the CSS file of the **Contact Nilankan** page.
+    <br>
+    
 # Name Of The Developer:
 The developer of the website is, me, [Nilankan Betal](https://github.com/NilankanBetal).
 
