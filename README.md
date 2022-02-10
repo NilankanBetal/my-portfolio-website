@@ -48,19 +48,19 @@ Currently it has 4 parts. These are following:
     <br>
     
 -  **[aboutMe.html](aboutMe.html)**
-    <br />***Description***: This is the **html** page of **About Nilankan** page. The file consists information about me. The information on the topic, mentioned in the "**# Contents Can Be Found In The Website:**" section of this **README.md** file.
+    <br />***Description***: This is the **html** page of **About Nilankan** page. The file consists information about me. The information on the topic, mentioned in the "**Contents Can Be Found In The Website:**" section of this **README.md** file.
     <br>
     
 -  **[aboutMe-layout.css](aboutMe-layout.css)**
-    <br />***Description***: This is the **CSS** page of the **About Nilankan** page.
+    <br />***Description***: This is the **CSS** page of the **About Nilankan** page. The styles and effects can be seen in the **[aboutMe.html](aboutMe.html)**, are defined here.
     <br>
     
 -  **[contactMe.html](contactMe.html)**
-    <br />***Description***: This is the **html** file of the **Contact Nilankan** page.
+    <br />***Description***: This is the **html** file of the **Contact Nilankan** page. This file contains my contact details. My e-mail and some social media account links are provided here.
     <br>
     
 -  **[contactMe-layout.css](contactMe-layout.css)**
-    <br />***Description***: This is the **CSS** file of the **Contact Nilankan** page.
+    <br />***Description***: This is the **CSS** file of the **Contact Nilankan** page. The styles and effects can be seen in the **[contactMe.html](contactMe.html)**, are defined here.
     <br>
     
 # Name Of The Developer:
