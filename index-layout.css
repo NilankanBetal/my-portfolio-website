@@ -74,7 +74,7 @@ h2
     color: transparent;
 }
 
-.button1
+.button
 {
     cursor: pointer;
     border: 1px solid #3498db;
@@ -84,4 +84,17 @@ h2
     color: #3498db;
     font-size: 1.5em;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
+}
+
+.button-1h
+{
+    background-color: transparent;
+    color: #3498db;
+    border: 2px solid #3498db;
+}
+
+.button-1h:hover
+{
+    background-color: #3498db;
+    color: white;
 }
