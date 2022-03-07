@@ -15,6 +15,7 @@ h1
     text-shadow: 0 0 2px #c92153, 0 0 6px #0000FF;
 }
 
+/*
 .button1
 {
     cursor: pointer;
@@ -25,4 +26,31 @@ h1
     color: #3498db;
     font-size: 1.5em;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
+}
+*/
+
+.button
+{
+    border: none;
+    color: bisque;
+    padding: 16px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: large;
+    margin: 6px 3px;
+    transition-duration: 0.5s;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
+}
+
+.button-1h
+{
+    background-color: transparent;
+    color: #0000FF;
+    border: 4px solid #0000FF;
+}
+
+.button-1h:hover
+{
+    background-color: #3498db;
+    color: white;
 }
