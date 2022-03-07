@@ -38,6 +38,7 @@ h2
     font-size: large;
     margin: 6px 3px;
     transition-duration: 0.5s;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
 }
 
 .button-1h
