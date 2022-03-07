@@ -76,14 +76,29 @@ h2
                  -1px -1px 0 #000;
 }
 
+/*
 .button1
 {
     cursor: pointer;
     border: 1px solid #3498db;
     background-color: transparent;
     height: 95px;
-    width: 200px;
+    width: 200px;                                     // This button feature has been removed
     color: #3498db;
     font-size: 1.5em;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
+}
+*/
+
+.button-3h
+{
+    background-color: transparent;
+    color: #0000FF;
+    border: 4px solid #0000FF;
+}
+
+.button-3h:hover
+{
+    background-color: #0000FF;
+    color: white;
 }
