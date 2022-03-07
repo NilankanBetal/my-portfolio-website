@@ -83,6 +83,7 @@ h2
     width: 200px;
     color: #3498db;
     font-size: 1.5em;
+    transition-duration: 0.5s;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
 }
 
