@@ -9,8 +9,8 @@ body
     background-image: url(images/artur-voznenko-wm4ME1nDVUA-unsplash.jpg);
     max-width: 100%;
     height: auto;
+    opacity: 0.8;
 }
-
 
 h1
 {
