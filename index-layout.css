@@ -78,6 +78,7 @@ h2
 {
     cursor: pointer;
     border: 1px solid #3498db;
+    border-radius: 10%;
     background-color: transparent;
     height: 75px;
     width: 200px;
