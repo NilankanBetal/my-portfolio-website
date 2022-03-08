@@ -49,6 +49,8 @@ h1
     background-color: transparent;
     color: #0000FF;
     border: 4px solid #0000FF;
+    border-radius: 10%;
+    padding: 20px 20px;
 }
 
 .button-1h:hover
