@@ -9,7 +9,7 @@ body
     background-image: url(images/artur-voznenko-wm4ME1nDVUA-unsplash.jpg);
     max-width: 100%;
     height: auto;
-    opacity: 0.8;
+    /*opacity: 0.8;*/
 }
 
 h1
@@ -113,8 +113,8 @@ h2
 .button-4h:active
 {
     background-color: #3498db;
-    box-shadow: 0 5px #666;
-    transform: translateY(4px);
+    /*box-shadow: 0 5px #666;*/
+    transform: translateY(12px);
 }
 
 .button-3h
