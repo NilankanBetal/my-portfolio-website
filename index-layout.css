@@ -71,8 +71,6 @@ h2
     display: inline-block;
     -webkit-background-clip: text;
     background-clip: text;
-    /*-webkit-background-clip: content-box;
-    background-clip: content-box;*/
     color: transparent;
 }
 
