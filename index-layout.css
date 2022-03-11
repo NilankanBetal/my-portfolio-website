@@ -35,7 +35,8 @@ h2
     color: blue;
 }
 
-.center {
+.center 
+{
     display: block;
     margin-left: 5%;
     margin-right: 5%;
@@ -43,7 +44,7 @@ h2
     margin-bottom: 5%;
     height: 10%;
     width: 10%;
-  }
+}
 
 .font-shadow
 {
