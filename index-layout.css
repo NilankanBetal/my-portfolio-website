@@ -1,6 +1,13 @@
+/*
+html
+{
+    background: url(images/emiliano-bar-kheTI8pIywU-unsplash.jpg);
+}
+*/
+
 body
 {
-    /*background-color: #e9c880;*/
+    background-color: #e9c880;
     background-image: url(images/emiliano-bar-kheTI8pIywU-unsplash.jpg);
     background-repeat: no-repeat;
 }
