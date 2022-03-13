@@ -12,10 +12,12 @@ body
     /*opacity: 0.8;*/
 }
 
+/*
 *
 {
     box-sizing: border-box;
 }
+*/
 
 h1
 {
@@ -131,26 +133,26 @@ h2
 
 .button-3h:hover
 {
-    background-color: rgb(78, 76, 76);
+    background-color: rgb(65, 54, 54);
     color: white;
 }
 
 .sidenav
 {
     height: 100%;
-    width: 100px;
-    position: relative;
+    width: 150px;
+    position: fixed;
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: #000;
+    background-color: rgb(92, 85, 85);
     overflow-x: hidden;
 }
 
 .sidenav a
 {
     color: white;
-    padding: 5px;
+    padding: 20px;
     text-decoration: none;
     display: block;
 }
@@ -165,5 +167,15 @@ h2
 .content
 {
     margin-left: 100px;
-    padding: 20px;
+    /*padding: 20px;*/
 }
+
+/*
+div.midtransbox
+{
+    margin: 25px;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    opacity: 0.5;
+}
+*/
