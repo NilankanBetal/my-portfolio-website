@@ -64,7 +64,7 @@ h1
     transform: translateY(12px);
 }
 
-p
+center
 {
-    align-items: center;
+    vertical-align: bottom;
 }
