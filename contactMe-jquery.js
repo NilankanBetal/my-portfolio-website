@@ -1,0 +1,2 @@
+$("#dynamicSideNav").hide();
+$("#dynamicSideNav").show();
